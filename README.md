@@ -20,7 +20,7 @@ An anonymous self-hosted chatting forum where new threads can be created by anon
 
 ## 📣 Support Me
 If you like my work, consider buying me a coffee!  
-[![ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-ff5f5f?style=flat-square&logo=ko-fi)](https://ko-fi.com/sabeeirsharrma)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DANSProjects%26type%3Dpledges&style=flat)](https://patreon.com/ANSProjects)
 
 ## 🤝 Let's Connect
 - GitHub: [SabeeirSharrma](https://github.com/SabeeirSharrma)
