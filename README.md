@@ -3,6 +3,7 @@
 > Turning caffeine into energy, I am a powerhouse running on coffee
 
 ## 🚀 About Me
+- 😃 I use Arch BTW
 - 🎓 Student passionate about technology and innovation
 - 💻 Coding in **Python**, **C#**, **C++**, and **JavaScript**
 - ☕ Fueled by coffee and curiosity
